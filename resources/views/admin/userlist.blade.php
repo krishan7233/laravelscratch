@@ -36,7 +36,6 @@
                                                     <th>Email</th>
                                                     <th>Mobile</th>
                                                     <th>Picture</th>
-                          
                                                     <th>Created at</th>
                                                     <th>Action</th>
                                                 </tr>
